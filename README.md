@@ -1,0 +1,2 @@
+# StockDaybook
+Daily Observation
